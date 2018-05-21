@@ -1,3 +1,22 @@
 .redBackground {
     background-color: red;
+    color: white;
+}
+h1 {
+    height: 100px;
+    background-color: rgb(68, 63, 63);
+    text-align: center;
+    color: silver;
+
+}
+input {
+    border-color: black;
+}
+
+h3 {
+    text-align: right;
+}
+
+#submitButton {
+    float: right;
 }
